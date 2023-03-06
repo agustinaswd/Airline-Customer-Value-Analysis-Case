@@ -1,2 +1,3 @@
-# Hi, nice to meet you
-This is our BlueCode Team's unsupervised learning homework project.
+# Airline Customer Value Analysis Case
+This is a unsupervised learning project that I got from Bootcamp Data Science at Rakamin Academy.
+
